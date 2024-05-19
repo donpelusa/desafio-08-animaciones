@@ -2,7 +2,7 @@
 
 Ejercicio realizado para **Desafío Latam**.
 
-![Screenshot_2](https://github.com/donpelusa/donpelusa.github.io/assets/92953141/07296e40-2246-4d17-b65a-ae23b43be00b)
+![Sin título](https://github.com/donpelusa/desafio-08-animaciones/assets/92953141/6dddfb70-6ae7-4a70-b49d-98e454b1eab3)
 
 ## Descripción
 
